@@ -46,9 +46,18 @@
 
 .one{
     background-color: #D84E55;
+    /* filter: invert(50%) brightness(200%) contrast(100%); */
 }
 
 .inImage{
+    margin: 8px 2px;
+    text-align: center;
+    color: white;
+    filter: invert(50%) brightness(200%) contrast(100%);
+
+}
+
+.inImage2{
     margin: 8px 2px;
     text-align: center;
     color: white;
